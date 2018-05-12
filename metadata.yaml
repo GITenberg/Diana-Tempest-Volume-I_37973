@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5732
     wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37973#Diana-Tempest-Volume-I
 gutenberg_issued: '2011-11-10'
 gutenberg_type: Text
 identifiers:
